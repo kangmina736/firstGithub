@@ -6,3 +6,5 @@ This is  modified by wevsite directly
 
 
 이건 2번째 버전입니다.
+
+이 부분을 로컬에서 변경했어요
